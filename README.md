@@ -10,3 +10,17 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+<div align="center">
+  <div style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 15px;
+    max-width: 900px;
+  ">
+    <a href="src/assets/Capture-1.jpeg"><img src="src/assets/Capture-1.jpeg" style="width:100%; height:auto; border-radius:8px;"/></a>
+    <a href="src/assets/Capture-2.jpeg"><img src="src/assets/Capture-2.jpeg" style="width:100%; height:auto; border-radius:8px;"/></a>
+    <a href="src/assets/Capture-3.jpeg"><img src="src/assets/Capture-3.jpeg" style="width:100%; height:auto; border-radius:8px;"/></a>
+    <a href="src/assets/Capture-4.jpeg"><img src="src/assets/Capture-4.jpeg" style="width:100%; height:auto; border-radius:8px;"/></a>
+  </div>
+</div>
