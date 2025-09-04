@@ -18,9 +18,9 @@ If you are developing a production application, we recommend using TypeScript wi
     gap: 15px;
     max-width: 900px;
   ">
-    <a href="src/assets/Capture-1.jpeg"><img src="src/assets/Capture-1.jpeg" style="width:100%; height:auto; border-radius:8px;"/></a>
-    <a href="src/assets/Capture-2.jpeg"><img src="src/assets/Capture-2.jpeg" style="width:100%; height:auto; border-radius:8px;"/></a>
-    <a href="src/assets/Capture-3.jpeg"><img src="src/assets/Capture-3.jpeg" style="width:100%; height:auto; border-radius:8px;"/></a>
-    <a href="src/assets/Capture-4.jpeg"><img src="src/assets/Capture-4.jpeg" style="width:100%; height:auto; border-radius:8px;"/></a>
+    <a href="src/assets/Capture-1.JPG"><img src="src/assets/Capture-1.JPG" style="width:100%; height:auto; border-radius:8px;"/></a>
+    <a href="src/assets/Capture-2.JPG"><img src="src/assets/Capture-2.JPG" style="width:100%; height:auto; border-radius:8px;"/></a>
+    <a href="src/assets/Capture-3.JPG"><img src="src/assets/Capture-3.JPG" style="width:100%; height:auto; border-radius:8px;"/></a>
+    <a href="src/assets/Capture-4.JPG"><img src="src/assets/Capture-4.JPG" style="width:100%; height:auto; border-radius:8px;"/></a>
   </div>
 </div>
